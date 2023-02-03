@@ -38,5 +38,5 @@ I am a third year student at Carleton University.
 
 - <a href="https://astef0797.itch.io/comp1501-project" alt="Adventure Game"> The Darkest Depths Short Adventure Game</a>
 - <a href="https://github.com/a-llie/montyHallSimulator" alt="Monty Hall Simulation">Monty Hall Simulation</a>
-- <a href="https://github.com/Seasons-of-Rust/desktop-companion/blob/main" alt="Desktop Companion ">Desktop Companion</a>
+- <a href="https://github.com/Seasons-of-Rust/desktop-companion" alt="Desktop Companion">Desktop Companion</a>
 
