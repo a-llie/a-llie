@@ -42,7 +42,14 @@ I am a third year student at Carleton University.
 
 ### Some of my favourite Projects: 
 
-- <a href="https://astef0797.itch.io/comp1501-project" alt="Adventure Game"> The Darkest Depths Short Adventure Game</a>
+- <a href="https://github.com/a-llie/photo-service" alt="Photo Service High Fidelity Prototype">Photo Service High Fidelity Prototype</a>
+  - A high fidelity prototype of a service that allows users to link all their cloud-based storage drives to a single client, and build photo albums from multiple sources. 
 - <a href="https://github.com/a-llie/montyHallSimulator" alt="Monty Hall Simulation">Monty Hall Simulation</a>
+  - A simulation of the Monty Hall problem, to convince myself that it's true. 
+- <a href="https://github.com/a-llie/LetEmCook" alt="Let 'Em Cook">Let 'Em Cook</a>
+  - A cooking simulation game, that pits aspiring chef robots against a clock.
+- <a href="https://astef0797.itch.io/comp1501-project" alt="Adventure Game"> The Darkest Depths Short Adventure Game</a>
+  - An adventure game, stemming from a young man falling into a pit deep in the forest. 
 - <a href="https://github.com/Seasons-of-Rust/desktop-companion" alt="Desktop Companion">Desktop Companion</a>
+  - A PoC of an interactable screen overlay in the form of a witchy cat, written in Rust. 
 
