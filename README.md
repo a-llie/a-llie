@@ -8,7 +8,7 @@
 
 ---
 
-### :woman_technologist: About me:
+### 👩‍💻 About me:
 
 I am a third year student at Carleton University. 
 
