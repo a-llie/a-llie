@@ -46,7 +46,7 @@ I am a third year student at Carleton University.
   - A high fidelity prototype of a service that allows users to link all their cloud-based storage drives to a single client, and build photo albums from multiple sources. 
 - <a href="https://github.com/a-llie/montyHallSimulator" alt="Monty Hall Simulation">Monty Hall Simulation</a>
   - A simulation of the Monty Hall problem, to convince myself that it's true. 
-- <a href="https://gatesstudios.itch.io/mystic-harvest" alt="Let 'Em Cook">Let 'Em Cook</a>
+- <a href="https://alexstef.itch.io/mystic-harvest" alt="Let 'Em Cook">Let 'Em Cook</a>
   - A cooking simulation game, that pits aspiring chef robots against a clock.
 - <a href="https://astef0797.itch.io/comp1501-project" alt="Adventure Game"> The Darkest Depths Short Adventure Game</a>
   - An adventure game, stemming from a young man falling into a pit deep in the forest. 
