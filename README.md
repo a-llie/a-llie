@@ -8,16 +8,6 @@
 
 ---
 
-### 👩‍💻 About me:
-
-I am a third year student at Carleton University. 
-
-- :book: I am working on completing my Bachelor's of Computer Science.
-- :snake: I enjoy learning to automate tasks and creating simulations in Python.
-- :thinking: During down time, I enjoy solving problems on LeetCode, or Advent of Code during the proper season. 
-
----
-
 ### My languages and Tools: 
 
 <p>
